@@ -1,5 +1,6 @@
 #title {
     background-color: #ff4c68;
+    color: white;
 }
 
 .container-fluid {
@@ -11,4 +12,24 @@ h1 {
     font-weight: 900;
     font-size: 3rem;
     line-height: 1.5;
+}
+
+nav {
+    font-family: 'Ubuntu';
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-weight: 100;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.title-image {
+    transform: rotate(30deg);
+    position: relative;
+    right: 100px;
 }
