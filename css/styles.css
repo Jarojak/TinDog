@@ -50,3 +50,9 @@ h1 {
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* features */
+.fa-features {
+  font-size: 4.5rem;
+  color: #ef8172;
+}
