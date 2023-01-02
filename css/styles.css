@@ -56,3 +56,7 @@ h1 {
   font-size: 4.5rem;
   color: #ef8172;
 }
+
+.fa-features:hover {
+  color: #ff4c68;
+}
