@@ -116,3 +116,8 @@ p {
   width: 15%;
   margin: 20px 20px 15px;
 }
+
+/* Pricing Section */
+#pricing {
+  padding: 100px;
+}
