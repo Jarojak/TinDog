@@ -69,6 +69,10 @@ p {
     position: absolute;
 }
 
+.title-image-div {
+  position: relative;
+}
+
 /* Features Section */
 
 #features {
