@@ -154,23 +154,24 @@ p {
 /* CTA (Call To Action) Section */
 #cta {
   background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
   text-align: center;
-  padding: 7% 20%;
 }
 
 .cta-h3 {
-  color: white;
   font-family: "Montserrat";
   font-weight: 900;
-  font-size: 3rem;
+  font-size: 3.5rem;
+  line-height: 1.5;
 }
 
 /* Footer section */
 #footer {
   text-align: center;
-  padding: 5% 0;
+  padding: 7% 15%;
 }
 
 .footer-fa {
-  padding: 2% 1%;
+  margin: 20px 10px;
 }
