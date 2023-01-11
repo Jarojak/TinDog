@@ -164,3 +164,13 @@ p {
   font-weight: 900;
   font-size: 3rem;
 }
+
+/* Footer section */
+#footer {
+  text-align: center;
+  padding: 5% 0;
+}
+
+.footer-fa {
+  padding: 2% 1%;
+}
