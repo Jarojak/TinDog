@@ -74,14 +74,9 @@ p {
 }
 
 /* Title section */
-#title {
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
-
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 /* Title image */
@@ -99,7 +94,6 @@ p {
 /* Features Section */
 
 #features {
-  background-color: white;
   position: relative;
   z-index: 1;
 }
